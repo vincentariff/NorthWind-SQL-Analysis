@@ -1,5 +1,4 @@
-# NorthWind-SQL-Analysis
-Analysis on NorthWind Traders using PostgreSQL 
+# Analysis on NorthWind Traders using PostgreSQL 
 
 ## Table of Contents
 
